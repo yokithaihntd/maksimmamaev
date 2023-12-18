@@ -1,4 +1,4 @@
-package patternPrototype;
+package com.yokithai.spring.patternPrototype;
 
 import java.util.HashMap;
 import java.util.Map;

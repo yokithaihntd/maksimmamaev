@@ -1,4 +1,4 @@
-package abstractFactory;
+package com.yokithai.spring.abstractFactory;
 
 interface Product {
     String getName();

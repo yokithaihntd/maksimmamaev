@@ -1,4 +1,4 @@
-package patternSingletone;
+package com.yokithai.spring.patternSingletone;
 
 class Dropper {
     private static Dropper instance;

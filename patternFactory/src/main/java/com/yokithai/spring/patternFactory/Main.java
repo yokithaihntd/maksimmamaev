@@ -1,4 +1,4 @@
-package patternFactory;
+package com.yokithai.spring.patternFactory;
 
 interface Supplier {
     void supply();

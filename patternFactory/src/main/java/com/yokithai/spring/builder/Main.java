@@ -1,4 +1,4 @@
-package builder;
+package com.yokithai.spring.builder;
 
 class Product {
     private String name;
